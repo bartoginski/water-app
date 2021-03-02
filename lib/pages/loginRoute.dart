@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:water_app/user.dart';
 
-import '../main.dart';
 import 'loading.dart';
 
 class LoginRoute extends StatelessWidget {
